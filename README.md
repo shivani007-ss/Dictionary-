@@ -9,10 +9,5 @@ This is a simple Dictionary web application built as a beginner project. It allo
 - Simple and responsive design  
 - Easy to use  
 
-## 🛠️ Tech Stack
-- HTML  
-- CSS  
-- JavaScript  
-
 ## 🎯 Purpose
 This project was created to practice web development skills and understand how to build interactive web applications using basic technologies. It focuses on simplicity, usability, and improving frontend development knowledge.
